@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Astrofront",
-    "base_url": "https://astrofront.vercel.app/",
+    "base_url": "https://yooman00.github.io",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -11,7 +11,6 @@
     "logo_height": "33",
     "logo_text": "Astrofront"
   },
-
   "settings": {
     "search": true,
     "account": true,
@@ -19,24 +18,20 @@
     "theme_switcher": true,
     "default_theme": "system"
   },
-
   "params": {
     "contact_form_action": "#",
     "copyright": "Designed And Developed by [Themefisher](https://themefisher.com/)"
   },
-
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
     "link": "https://github.com/themefisher/astrofront"
   },
-
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
     "meta_description": "Shopify Storefront Boilerplate"
   },
-
   "shopify": {
     "currencySymbol": "৳",
     "currencyCode": "BDT",
